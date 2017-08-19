@@ -47,42 +47,42 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 // Also yes I could totally use a json object to represent the menus, but I didn't feel like reprogramming the whole script. Probably doing that next site, though.
 var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
-  ["AnimeNewsNetwork",         "",""],
-  ["MyAnimeList",              "",""],
-  ["Nyaa Tracker",             "",""],
-  ["BakaBT",                   "",""],
+  ["Pixiv",         "https://pixiv.com",""],
+  ["Weibo",              "https://weibo.com",""],
+  ["Nyaa",             "https://nyaa.si",""],
+  ["Batoto",                   "https://bato.to",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
-  ["YouTube",                  "",""],
-  ["Facebook",                 "",""],
-  ["Reddit",                   "",""],
-  ["Twitch",                   "",""],
-  ["DeviantArt",               "",""],
+  ["YouTube",                  "https://youtube.com",""],
+  ["Facebook",                 "https://facebook.com",""],
+  ["Reddit",                   "https://reddit.com",""],
+  ["Twitch",                   "https://twitch.tv",""],
+  ["Twitter",               "https://twitter.com",""],
   
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
-  ["/a/ Anime & Manga",        "",""],
-  ["/g/ Technology",           "",""],
-  ["/w/ Anime/Wallpapers",     "",""],
-  ["/wg/ Wallpaper/General",   "",""],
+  ["/a/ Anime & Manga",        "boards.4chan.org/a/",""],
+  ["/ic/ Artwork & Critique",           "board.4chan.org/ic/",""],
+  ["/v/ Video Games",     "boards.4chan.org/v/",""],
+  ["/wg/ Wallpaper/General",   "boards.4chan.org/wg/",""],
   
   [svgCode,                    "red",                                         "-HEAD-"], // Code Stuff
-  ["GitHub",                   "",""],
-  ["Gist",                     "",""],
-  ["JSFiddle",                 "",""],
-  ["Stack Overflow",           "",""],
+  ["GitHub",                   "https://github.com",""],
+  ["Moodle",                     "https://moodle.telt.unsw.edu.au",""],
+  ["JSFiddle",                 "https://jsfiddle.net",""],
+  ["Stack Overflow",           "https://stackoverflow.com",""],
   
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // Gaming
-  ["Steam",                    "",""],
-  ["Humble Bundle",            "",""],
-  ["GOG.com",                  "",""],
-  ["/r/gaming",                "",""],
+  ["Steam",                    "https://steam.steampowered.com",""],
+  ["Humble Bundle",            "https://humblebundle.com",""],
+  ["GOG.com",                  "https://gog.com",""],
+  ["Green Man Gaming",                "https://greenmangaming.com",""],
   
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
-  ["Gmail",                    "",""],
-  ["Amazon",                   "",""],
-  ["Dropbox",                  "",""],
-  ["Netflix",                  "",""],
-  ["Weather",                  "",""],
+  ["Gmail",                    "https://mail.google.com",""],
+  ["Amazon",                   "https://amazon.com",""],
+  ["Dropbox",                  "https://dropbox.com",""],
+  ["Artstation",                  "https://artstation.com",""],
+  ["Weather",                  "https://weather.org",""],
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
