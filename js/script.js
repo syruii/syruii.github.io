@@ -60,10 +60,10 @@ var linkMenu = [
   ["Twitter",               "https://twitter.com",""],
   
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
-  ["/a/ Anime & Manga",        "boards.4chan.org/a/",""],
-  ["/ic/ Artwork & Critique",           "board.4chan.org/ic/",""],
-  ["/v/ Video Games",     "boards.4chan.org/v/",""],
-  ["/wg/ Wallpaper/General",   "boards.4chan.org/wg/",""],
+  ["/a/ Anime & Manga",        "https://boards.4chan.org/a/",""],
+  ["/ic/ Artwork & Critique",           "https://board.4chan.org/ic/",""],
+  ["/v/ Video Games",     "https://boards.4chan.org/v/",""],
+  ["/wg/ Wallpaper/General",   "https://boards.4chan.org/wg/",""],
   
   [svgCode,                    "red",                                         "-HEAD-"], // Code Stuff
   ["GitHub",                   "https://github.com",""],
