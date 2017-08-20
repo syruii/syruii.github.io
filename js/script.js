@@ -47,7 +47,7 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 // Also yes I could totally use a json object to represent the menus, but I didn't feel like reprogramming the whole script. Probably doing that next site, though.
 var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
-  ["Pixiv",         "https://pixiv.com",""],
+  ["Pixiv",         "https://pixiv.net",""],
   ["Weibo",              "https://weibo.com",""],
   ["Nyaa",             "https://nyaa.si",""],
   ["Batoto",                   "https://bato.to",""],
