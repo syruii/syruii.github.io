@@ -61,7 +61,7 @@ var linkMenu = [
   
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
   ["/a/ Anime & Manga",        "https://boards.4chan.org/a/",""],
-  ["/ic/ Artwork & Critique",           "https://board.4chan.org/ic/",""],
+  ["/ic/ Artwork & Critique",           "https://boards.4chan.org/ic/",""],
   ["/v/ Video Games",     "https://boards.4chan.org/v/",""],
   ["/wg/ Wallpaper/General",   "https://boards.4chan.org/wg/",""],
   
@@ -79,7 +79,7 @@ var linkMenu = [
   
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com",""],
-  ["Amazon",                   "https://amazon.com",""],
+  ["Amazon",                   "https://amazon.com.au",""],
   ["Dropbox",                  "https://dropbox.com",""],
   ["Artstation",                  "https://artstation.com",""],
   ["Weather",                  "https://weather.org",""],
